@@ -20,10 +20,13 @@ Technologies Used
 -  JavaScript: Implements the game logic, tile matching, and user interactions.
 
 Game Interface
+
 The game interface consists of a title, the game board, and a reset button. The game board is a grid of tiles, each containing an emoji. When you click on a tile, it flips over to reveal the emoji underneath. The tiles will match if their emojis are the same.
 
 Styling
+
 The game interface features a responsive design, a colorful background, and clean typography. The design creates an engaging and visually appealing experience for players.
 
 Developer
+
 This Memory Game was developed by Ashwin. Feel free to reach out to me if you have any questions or suggestions!
