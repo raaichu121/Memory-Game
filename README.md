@@ -2,7 +2,7 @@
 
 Memory Game is a simple web-based game built using HTML, CSS, and JavaScript. The objective of the game is to match pairs of emojis by clicking on the tiles.
 
-https://github.com/raaichu121/Memory-Game/assets/86672936/9f7387ce-e8f0-422b-800f-a208b650bb24
+![demo](demo.gif)
 
 How to Play
 -  Open the index.html file in a web browser.
